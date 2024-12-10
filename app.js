@@ -1,3 +1,10 @@
+// 1 ----------------------------------------------------------------
+// function arrayMadness(a, b) {
+//     return (a.reduce((acc, value) => acc + value ** 2, 0) > b.reduce((acc, value) => acc + value ** 3, 0))
+// }
+// console.log(arrayMadness([4, 5, 6], [1, 2, 3]));
+
+
 // 2 ------------------------------------------------------
 // let printArray = (array) => array.join(",")
 // console.log(printArray(["h", "o", "l", "a"]))
